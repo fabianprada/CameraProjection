@@ -4,5 +4,5 @@ To compile in Windows, unzip 4Windows.zip and move /PNG and /ZLIB into /include.
 
 Run the example as :
 
-CameraProjection input.ply cameraImage.png calibration.txt ouptu.ply
+CameraProjection input.ply cameraImage.png calibration.txt output.ply
 
